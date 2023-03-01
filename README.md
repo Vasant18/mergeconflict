@@ -1,2 +1,2 @@
 # mergeconflict
-merge conflicts must be resloved manually.
+merge conflicts must be resloved automatically.
